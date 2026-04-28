@@ -11,8 +11,8 @@ A system that enables users to
 <b>LOGIC USED</b>
 - OBJECT ORIENTED PRINCIPLES TO MODEL THE ENTITIES [Encapsulation]
 - LAYERED ARCHITECTURE - Model, Services, UserInterface
-- COMPOSITION RELATIONSHIP
-  i) A ShowTime has a Movie, Screen
+- COMPOSITION RELATIONSHIP<br>
+  i) A ShowTime has a Movie, Screen<br>
   ii) A Screen has an Array of Seat
 
 <b>STEPS TO EXECUTE THE PROGRAM</b>
