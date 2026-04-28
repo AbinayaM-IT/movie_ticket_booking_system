@@ -34,8 +34,8 @@ public class UserInterface{
         s.getScreenLayout(name);
       }
     }
-    else{
-      System.out.println("check seat availability in theatre");
+    else if(opt == 2){
+      System.out.println("check seat availability in theatre\nEnter the theatre name:");
       String name = sc.next();
       s.getScreenLayout(name);
     
